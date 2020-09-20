@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbce955d-05c6-4a5b-8b2e-c7055d038b0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/Amazon/Amazon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/CNN/CNN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/Cigna/Cigna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/CitiBank/CitiBank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/Facebook/Facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BootCampAutomation/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Facebook/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Facebook/src/main/java/facebookBrowse/Ebay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FrameworkAutomation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FrameworkAutomation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Framwork/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Framwork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../InterviewPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSeleniumCourse/.idea/Drivers/Chromedr3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSeleniumCourse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Kaiser/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Kaiser/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Kaiser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebdriverWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../comseleniumCourse/comseleniumCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LabCore/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../LabCore/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LabCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../LabCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/13/30631f409e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/17/80c0c8f79e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/2/b06f30a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/28/d02e33a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/29/f0d9ac42a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/2a/60ebad42a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/2c/70d32fa7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/38/40d8e850c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/49/c0e9d1a5b05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/49/d0231666c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/4c/c0751e00e75b00191a0a882c5e2b84fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5b/80892da7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5c/30ac276bae5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5c/80817758a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5e/6025e140c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/60/907e0e63c55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/60/a0b7ffbfa15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/60/b0aeae42a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/6d/90846e99a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/6d/d04c2ea7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/6e/f0545c28c75b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/72/c0c220409e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7b/503f5d28c75b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7b/90db5d28c75b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7c/40b1d0a5b05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7d/5017f47c9f5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/81/90d6f87fc55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/81/b00ce314a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/88/70c854e4c45b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/8b/208f7674a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/99/4091dfdaaf5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/9a/b0ee7774a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/9b/f02e5c2c9e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/9c/9066e2d79e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/a4/b05f4107d45b00191cdf91f0ade8e79b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/a5/b074960ba25b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/a9/f0816935c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/ad/30456d29c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/b0/909232a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/b3/f06f8ab3c55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/b9/408579eca15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/bc/d05db864a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/bd/f00b31a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/be/804dd1a5b05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c/40f9857dae5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c3/60947c73c55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c5/40d17e64e25b00191cdf91f0ade8e79b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c6/70daee229e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/ca/503823fbad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/da/80797774a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/e/40cf31a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/e3/60f2c7b7a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/e7/a0de417d9e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/eb/00b6735e9f5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/f7/30ffd3e2a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/f8/109df123a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fc/a064daf9ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fd/b0dcc36fc65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fe/30372fa7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fe/a07516edae5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreJava/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreJava/.indexes/e4/90/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreJava/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/OOP_HomeWork/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/OOP_HomeWork/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WeekDaysFeb/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WinsenPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WinsenPractice/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emailApp/EmailApplication.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emailApp/Email.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="458" />
+    <option name="y" value="176" />
+    <option name="width" value="822" />
+    <option name="height" value="573" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="emailApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbce955d-05c6-4a5b-8b2e-c7055d038b0c" name="Default Changelist" comment="" />
+      <created>1597879197396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597879197396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="458" y="176" width="822" height="573" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03846154" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/emailApp/EmailApplication.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emailApp/Email.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_202</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
